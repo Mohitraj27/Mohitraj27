@@ -10,4 +10,4 @@
 Instagram - https://www.instagram.com/mohit_raj27/ Maid id - raj716980@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have my own record of eating Biryani for 8 Days :)
-
+<img src = "https://github-readme-stats.vercel.app/api?username=Mohitraj27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
