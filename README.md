@@ -13,9 +13,7 @@
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on Android Development Projects
 - 🤔 I’m looking for help with BMI Calculator Project.
-- 💬 Ask me about  any Android related stuff.
 - 📫 How to reach me  raj716980@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact  I have my own record of eating Biryani for 8 Days :)
  
 
