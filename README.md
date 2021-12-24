@@ -45,7 +45,7 @@
 <a href = "https://www.linkedin.com/in/mohit-raj-b1b2b7204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MohitRa96976865"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mohit_raj27/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCZkcpS0vCh5F3JLYqk4e1cQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 
 </p>
 
