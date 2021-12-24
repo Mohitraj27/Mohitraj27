@@ -12,9 +12,8 @@
 -  <img class="s-img bdr-4" height="16" alt="https://www.chegg.com/" title="https://www.chegg.com/" src="https://s.yimg.com/fz/api/res/1.2/lGlAuIq7qkqMOb66nMK3yg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/7028c0d6-f361-32f8-aa44-443a7bafcb66/t_500x300">  I'm also working(Part Time) as a Managed Network Expert at Chegg India.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on Android Development Projects
-- 🤔 I’m looking for help with BMI Calculator Project.
 - 📫 How to reach me  raj716980@gmail.com
-- ⚡ Fun fact  I have my own record of eating Biryani for 8 Days :)
+
  
 
 ## 🚀 Languages and Tools:
