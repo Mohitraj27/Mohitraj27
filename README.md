@@ -16,11 +16,7 @@
 
  
 
-## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-  <a href="https://www.w3.org/XML/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" size="6"/> </a>
 
  
 
